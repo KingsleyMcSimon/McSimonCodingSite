@@ -60,4 +60,4 @@ I used this project to cement my knowledge of the technology(HTML5, CSS3 and Jav
 
 # Acknowledgements/References:
 
-[GTCoding](https://www.youtube.com/watch?v=KIo2sV0EXOY) was very handy in putting this website together,
+[GTCoding](https://www.youtube.com/watch?v=KIo2sV0EXOY) was very handy in putting this website together.
